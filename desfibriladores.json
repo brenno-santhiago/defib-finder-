@@ -1,0 +1,472 @@
+[
+    {
+        "id": 1,
+        "nome": "ESF Centro",
+        "cidade": "Montes Claros",
+        "bairro": "Centro",
+        "rua": "Rua Gabriel Passos",
+        "numero": "53",
+        "longitude": "-43.87047340348776",
+        "latitude": "-16.722384856963323"
+    },
+    {
+        "id": 5,
+        "nome": "ESF Alcides Rabelo",
+        "cidade": "Montes Claros",
+        "bairro": "Alcides Rabelo",
+        "rua": "R. Geovane Fagundes de Souza",
+        "numero": "199",
+        "longitude": "-43.84284344766387",
+        "latitude": "-16.706938344920705"
+    },
+    {
+        "id": 6,
+        "nome": "ESF Maracanã",
+        "cidade": "Montes Claros",
+        "bairro": "Maracanã",
+        "rua": "Av. Brasília",
+        "numero": "724",
+        "longitude": "-43.86547617793306",
+        "latitude": "-16.760797455264008"
+    },
+    {
+        "id": 7,
+        "nome": "ESF Acácias",
+        "cidade": "Montes Claros",
+        "bairro": "Acácias",
+        "rua": "Al. Quita Guimarães",
+        "numero": "105",
+        "longitude": "-43.82205775931207",
+        "latitude": "-16.72393210858946"
+    },
+    {
+        "id": 8,
+        "nome": "ESF Marfim",
+        "cidade": "Montes Claros",
+        "bairro": "Morada do Parque",
+        "rua": "Professor João Câmara",
+        "numero": "111",
+        "longitude": "-43.88501041721061",
+        "latitude": "-16.76140062894282"
+    },
+    {
+        "id": 9,
+        "nome": "ESF Miralta",
+        "cidade": "Montes Claros",
+        "bairro": "Zona Rural",
+        "rua": "Capitão Eugênio",
+        "numero": "S/N",
+        "longitude": "-43.90475654763429",
+        "latitude": "-16.53129220397155"
+    },
+    {
+        "id": 10,
+        "nome": "ESF Alto São João",
+        "cidade": "Montes Claros",
+        "bairro": "Alto São João",
+        "rua": "R. João Teixeira Bastos",
+        "numero": "114",
+        "longitude": "-43.85688298999357",
+        "latitude": "-16.713220747592203"
+    },
+    {
+        "id": 11,
+        "nome": "ESF Monte Carmelo",
+        "cidade": "Montes Claros",
+        "bairro": "Monte Carmelo II",
+        "rua": "Platina",
+        "numero": "22",
+        "longitude": "-43.84073573079211",
+        "latitude": "-16.725150203885043"
+    },
+    {
+        "id": 12,
+        "nome": "ESF Antônio Pimenta",
+        "cidade": "Montes Claros",
+        "bairro": "Antônio Pimenta",
+        "rua": "R. Rosa Mendes Ferreira",
+        "numero": "336",
+        "longitude": "-43.85489171453124",
+        "latitude": "-16.744154914330938"
+    },
+    {
+        "id": 13,
+        "nome": "ESF Monte Sião",
+        "cidade": "Montes Claros",
+        "bairro": "Monte Sião",
+        "rua": "Rua E",
+        "numero": "29",
+        "longitude": "-43.84009673402383",
+        "latitude": "-16.671276438328448"
+    },
+    {
+        "id": 14,
+        "nome": "ESF Morrinhos",
+        "cidade": "Montes Claros",
+        "bairro": "Morrinhos",
+        "rua": "Melo Viana",
+        "numero": "550",
+        "longitude": "-43.863956946841995",
+        "latitude": "-16.73286794580235"
+    },
+    {
+        "id": 15,
+        "nome": "ESF Aparecida do Mundo Novo",
+        "cidade": "Montes Claros",
+        "bairro": "Aparecida do Mundo Novo",
+        "rua": "R. Montes Claros",
+        "numero": "S/N",
+        "longitude": "-43.926549180203686",
+        "latitude": "-16.11521536002897"
+    },
+    {
+        "id": 16,
+        "nome": "ESF Nova Esperança",
+        "cidade": "Montes Claros",
+        "bairro": "Nova Esperança",
+        "rua": "Av. Joaquim de Abreu",
+        "numero": "245",
+        "longitude": "-43.937767513490996",
+        "latitude": "-16.5828196589527"
+    },
+    {
+        "id": 17,
+        "nome": "ESF Bela Paisagem",
+        "cidade": "Montes Claros",
+        "bairro": "Santos Reis",
+        "rua": "R. Geraldino Machado",
+        "numero": "946",
+        "longitude": "-43.8724102611586",
+        "latitude": "-16.696439336454564"
+    },
+    {
+        "id": 18,
+        "nome": "ESF Nova Suíça",
+        "cidade": "Montes Claros",
+        "bairro": "Nova Suíça",
+        "rua": "Itália",
+        "numero": "1055",
+        "longitude": "-43.809578903331804",
+        "latitude": "-16.723771033411193"
+    },
+    {
+        "id": 19,
+        "nome": "ESF Novo Delfino",
+        "cidade": "Montes Claros",
+        "bairro": "Novo Delfino",
+        "rua": "Rua 35",
+        "numero": "39",
+        "longitude": "-43.83039357099879",
+        "latitude": "-16.738802382141493"
+    },
+    {
+        "id": 20,
+        "nome": "ESF Bela Vista",
+        "cidade": "Montes Claros",
+        "bairro": "Vila Atlantida",
+        "rua": "R. Quincas Souto",
+        "numero": "1420",
+        "longitude": "-43.877786059312555",
+        "latitude": "-16.702672436811742"
+    },
+    {
+        "id": 21,
+        "nome": "ESF Pérola",
+        "cidade": "Montes Claros",
+        "bairro": "Todos os Santos",
+        "rua": "Santa Lúcia",
+        "numero": "471",
+        "longitude": "-43.87355983216842",
+        "latitude": "-16.719131028915378"
+    },
+    {
+        "id": 22,
+        "nome": "ESF Planalto",
+        "cidade": "Montes Claros",
+        "bairro": "Planalto",
+        "rua": "Divíno Espírito Santo",
+        "numero": "389",
+        "longitude": "-43.83578446751742",
+        "latitude": "-16.694885980124944"
+    },
+    {
+        "id": 23,
+        "nome": "ESF Planalto II",
+        "cidade": "Montes Claros",
+        "bairro": "Planalto",
+        "rua": "Rua Dois",
+        "numero": "150B",
+        "longitude": "-43.84029088799025",
+        "latitude": "-16.69564577669369"
+    },
+    {
+        "id": 24,
+        "nome": "ESF Recanto das Águas",
+        "cidade": "Montes Claros",
+        "bairro": "São Lucas",
+        "rua": "Rua H",
+        "numero": "32",
+        "longitude": "-43.83055208984213",
+        "latitude": "-16.670061137284932"
+    },
+    {
+        "id": 25,
+        "nome": "ESF Planalto Rural",
+        "cidade": "Montes Claros",
+        "bairro": "Zona Rural",
+        "rua": "BR 135, KM 384",
+        "numero": "",
+        "longitude": "-43.8680347516512",
+        "latitude": "-16.89580092030823"
+    },
+    {
+        "id": 26,
+        "nome": "ESF Campos Eliseos",
+        "cidade": "Montes Claros",
+        "bairro": "Jardim Alegre (Facela)",
+        "rua": "Rua F",
+        "numero": "590",
+        "longitude": "",
+        "latitude": ""
+    },
+    {
+        "id": 27,
+        "nome": "ESF Renascença",
+        "cidade": "Montes Claros",
+        "bairro": "Renascença",
+        "rua": "Av. Bio Lopes",
+        "numero": "1272",
+        "longitude": "-43.85164009962359",
+        "latitude": "-16.698506790906904"
+    },
+    {
+        "id": 28,
+        "nome": "ESF Canto do Engenho",
+        "cidade": "Montes Claros",
+        "bairro": "São Geraldo II",
+        "rua": "R. Eurico Leite Fonseca",
+        "numero": "181",
+        "longitude": "-43.882811974651084",
+        "latitude": "-16.795475704946647"
+    },
+    {
+        "id": 29,
+        "nome": "ESF Carmelo",
+        "cidade": "Montes Claros",
+        "bairro": "Carmelo",
+        "rua": "R. Lagoa Carajás",
+        "numero": "500",
+        "longitude": "-43.82848230341349",
+        "latitude": "-16.721646786784227"
+    },
+    {
+        "id": 30,
+        "nome": "ESF Carmelo II",
+        "cidade": "Montes Claros",
+        "bairro": "Carmelo",
+        "rua": "R. Lagoa do Abaeté",
+        "numero": "101",
+        "longitude": "43.831545459533565",
+        "latitude": "-16.720204748641933"
+    },
+    {
+        "id": 31,
+        "nome": "ESF Samambaia",
+        "cidade": "Montes Claros",
+        "bairro": "Vila Nova de Minas",
+        "rua": "Av. Montes Claros",
+        "numero": "58",
+        "longitude": "-43.84593837294826",
+        "latitude": "-16.77777014942447"
+    },
+    {
+        "id": 32,
+        "nome": "ESF Chiquinho Guimarães",
+        "cidade": "Montes Claros",
+        "bairro": "São Geraldo",
+        "rua": "R. Pirajuí",
+        "numero": "118",
+        "longitude": "-43.87623341882792",
+        "latitude": "-16.75293044750174"
+    },
+    {
+        "id": 33,
+        "nome": "ESF Santa Bárbara",
+        "cidade": "Montes Claros",
+        "bairro": "Santa Bárbara",
+        "rua": "BR 365, KM 10",
+        "numero": "",
+        "longitude": "",
+        "latitude": ""
+    },
+    {
+        "id": 34,
+        "nome": "ESF Santa Lúcia I",
+        "cidade": "Montes Claros",
+        "bairro": "Santa Lúcia",
+        "rua": "Olivina",
+        "numero": "240",
+        "longitude": "-43.810577119933264",
+        "latitude": "-16.60047222723481"
+    },
+    {
+        "id": 35,
+        "nome": "ESF Cidade Cristo Rei",
+        "cidade": "Montes Claros",
+        "bairro": "Alto São João",
+        "rua": "R. Juiz de Fora",
+        "numero": "115",
+        "longitude": "-43.852073056249026",
+        "latitude": "-16.71670677542692"
+    },
+    {
+        "id": 36,
+        "nome": "ESF Santa Rafaela",
+        "cidade": "Montes Claros",
+        "bairro": "Santa Rafaela",
+        "rua": "Vicente Silva",
+        "numero": "160",
+        "longitude": "-43.851088516821875",
+        "latitude": "-16.766914502570145"
+    },
+    {
+        "id": 37,
+        "nome": "ESF Cidade Industrial",
+        "cidade": "Montes Claros",
+        "bairro": "Cidade Industrial",
+        "rua": "R. Quarenta e Três",
+        "numero": "210",
+        "longitude": "-43.85433173232435",
+        "latitude": "-16.668997204251085"
+    },
+    {
+        "id": 38,
+        "nome": "ESF Cintra",
+        "cidade": "Montes Claros",
+        "bairro": "Santa Rita I",
+        "rua": "R. Monte Plano",
+        "numero": "892",
+        "longitude": "-43.85263588486187",
+        "latitude": "-16.732857462253246"
+    },
+    {
+        "id": 39,
+        "nome": "ESF Santa Rosa de Lima",
+        "cidade": "Montes Claros",
+        "bairro": "Santa Rosa de Lima",
+        "rua": "Praça Bom Jesus",
+        "numero": "S/N",
+        "longitude": "-43.94464183069067",
+        "latitude": "-16.29849980837512"
+    },
+    {
+        "id": 40,
+        "nome": "ESF Santo Antônio I",
+        "cidade": "Montes Claros",
+        "bairro": "Delfino Magalhães",
+        "rua": "Av. Olímpio Magalhães",
+        "numero": "756",
+        "longitude": "-43.83871127449513",
+        "latitude": "-16.74236182158399"
+    },
+    {
+        "id": 41,
+        "nome": "ESF Cintra I e II",
+        "cidade": "Montes Claros",
+        "bairro": "Cintra",
+        "rua": "R. Cônego Marcos",
+        "numero": "744",
+        "longitude": "-43.84773397688929",
+        "latitude": "-16.73105640228979"
+    },
+    {
+        "id": 42,
+        "nome": "ESF Conjunto Vitória",
+        "cidade": "Montes Claros",
+        "bairro": "Conjunto Vitória II",
+        "rua": "R. Dezessete",
+        "numero": "350",
+        "longitude": "-43.83877774581695",
+        "latitude": "-16.751718066427514"
+    },
+    {
+        "id": 43,
+        "nome": "ESF Delfino Magalhães",
+        "cidade": "Montes Claros",
+        "bairro": "Delfino Magalhães",
+        "rua": "Av. Neco Delfino",
+        "numero": "253",
+        "longitude": "-43.83834864228815",
+        "latitude": "-16.736946449292763"
+    },
+    {
+        "id": 44,
+        "nome": "ESF Santo Antônio II",
+        "cidade": "Montes Claros",
+        "bairro": "Santo Antônio II",
+        "rua": "Raimundo Wanderlei",
+        "numero": "42",
+        "longitude": "-43.843505568744824",
+        "latitude": "-16.746124673988383"
+    },
+    {
+        "id": 45,
+        "nome": "ESF Santos Reis",
+        "cidade": "Montes Claros",
+        "bairro": "Santos Reis",
+        "rua": "Marcos Ribeiro",
+        "numero": "167",
+        "longitude": "-43.870143974495946",
+        "latitude": "-16.70082480613001"
+    },
+    {
+        "id": 46,
+        "nome": "ESF São Geraldo II",
+        "cidade": "Montes Claros",
+        "bairro": "São Geraldo II",
+        "rua": "Av. Aparecida Bispo",
+        "numero": "30",
+        "longitude": "-43.884298342922605",
+        "latitude": "-16.79394277995399"
+    },
+    {
+        "id": 47,
+        "nome": "ESF São Judas",
+        "cidade": "Montes Claros",
+        "bairro": "São Judas",
+        "rua": "Padre Vieira",
+        "numero": "620",
+        "longitude": "-43.858809876349476",
+        "latitude": "-16.748972536839318"
+    },
+    {
+        "id": 48,
+        "nome": "ESF Tancredo Neves",
+        "cidade": "Montes Claros",
+        "bairro": "Tancredo Neves",
+        "rua": "Rua Dois",
+        "numero": "206",
+        "longitude": "-43.85159900333236",
+        "latitude": "-16.69999543932125"
+    },
+    {
+        "id": 49,
+        "nome": "ESF Eldorado I",
+        "cidade": "Montes Claros",
+        "bairro": "Jardim Eldorado",
+        "rua": "R. N",
+        "numero": "372",
+        "longitude": "-43.87866020336684",
+        "latitude": "-16.685507274657624"
+    },
+    {
+        "id": 50,
+        "nome": "ESF Topázio",
+        "cidade": "Montes Claros",
+        "bairro": "Santo Amaro",
+        "rua": "Rua 33",
+        "numero": "191",
+        "longitude": "-43.85022811511119",
+        "latitude": "-16.771393927774515"
+    }
+]

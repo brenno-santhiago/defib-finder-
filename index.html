@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Defib-Finder</title>
+    <link rel="stylesheet" href="styles.css">
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAOG-YUafBi4posDk_J4-jS4jtgrrGAMDo&callback=initMap"></script>
+</head>
+<body>
+    <header>
+        <h1>Defib-Finder</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="cadastro.html">Cadastro</a></li>
+                <li><a href="/#mapa">Mapa</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="home">
+        <section id="mapa">
+            <h2 class="title">Mapa de Desfibriladores</h2>
+            <div id="map"></div>
+
+            <button onclick="buscarProximos()">Buscar Próximos</button>
+        
+            <h2 class="title">Lista de Desfibriladores</h2>
+            <div id="desfibriladores-lista">
+                <table id="desfibriladores-tabela">
+                    <thead>
+                        <tr>
+                            <th>Nome</th>
+                            <th>Cidade</th>
+                            <th>Bairro</th>
+                            <th>Rua</th>
+                            <th>Número</th>
+                            <th>Longitude</th>
+                            <th>Latitude</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Dados serão inseridos aqui pelo JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+        
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Defib-Finder - Todos os direitos reservados</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
