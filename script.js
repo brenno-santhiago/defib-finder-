@@ -159,3 +159,18 @@ function atualizarDesfibriladores(map, listaDesfibriladores = desfibriladores) {
 window.onload = function() {
     initMap();
 };
+
+
+document.getElementById("filterBtn").onclick = function() {
+    document.getElementById("filterPopup").style.display = "block";
+}
+
+function closeFilterPopup() {
+    document.getElementById("filterPopup").style.display = "none";
+}
+
+document.getElementById("filterForm").onsubmit = function(event) {
+    event.preventDefault();
+    // Código para aplicar filtros (pode ser adicionado posteriormente)
+    closeFilterPopup();
+};
