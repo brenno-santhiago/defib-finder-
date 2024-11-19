@@ -174,3 +174,4 @@ document.getElementById("filterForm").onsubmit = function(event) {
     // Código para aplicar filtros (pode ser adicionado posteriormente)
     closeFilterPopup();
 };
+
