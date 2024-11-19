@@ -278,3 +278,225 @@ footer p {
     color: #fff;
     text-align: center;
 }
+
+
+/*responsividade*/
+@media (max-width: 1024px) {
+    .container {
+        width: 90%;
+    }
+    
+    h2 {
+        font-size: 1.6rem;
+    }
+    
+    #map {
+        height: 400px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 100%;
+        padding: 0 20px;
+    }
+
+    header {
+        padding: 15px 0;
+    }
+    
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+    #map {
+        height: 300px;
+    }
+
+    .contact-section,
+    .form-section {
+        max-width: 100%;
+        padding: 15px;
+    }
+    
+    .contact-info {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+@media (max-width: 576px) {
+    header {
+        text-align: center;
+    }
+
+    #filterBtn {
+        width: 100%;
+        justify-content: center;
+        padding: 0.5rem;
+    }
+
+    .popup-content {
+        width: 90%;
+        padding: 15px;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+    }
+    
+    .contact-item {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .contact-item p,
+    .contact-item a {
+        font-size: 1rem;
+    }
+
+    button {
+        padding: 8px;
+        font-size: 0.9rem;
+    }
+    
+    footer p {
+        font-size: 0.9rem;
+    }
+}
+
+/* Responsividade do popup */
+@media (max-width: 1024px) {
+    .popup-content {
+        width: 80%;
+        padding: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .popup-content {
+        width: 90%;
+        padding: 15px;
+    }
+
+    .popup-content h2 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .popup-content fieldset {
+        padding: 10px;
+        margin-bottom: 15px;
+    }
+
+    .popup-content label {
+        font-size: 1rem;
+    }
+
+    .popupBtn {
+        width: 100%;
+        padding: 10px;
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .popup-content {
+        width: 95%;
+        padding: 10px;
+    }
+
+    .popup-content h2 {
+        font-size: 1.3rem;
+    }
+
+    .popup-content fieldset {
+        padding: 8px;
+    }
+
+    .popup-content label {
+        font-size: 0.9rem;
+    }
+
+    .popupBtn {
+        padding: 8px;
+        font-size: 0.9rem;
+    }
+
+    .close {
+        font-size: 1.5rem;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+}
+
+/* Estilo para tabelas */
+#desfibriladores-lista {
+    overflow-x: auto; /* Adiciona scroll horizontal */
+}
+
+#desfibriladores-tabela {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#desfibriladores-tabela th, 
+#desfibriladores-tabela td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+#desfibriladores-tabela th {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+/* Estilo para dispositivos menores */
+@media (max-width: 768px) {
+    #desfibriladores-tabela,
+    #desfibriladores-tabela thead,
+    #desfibriladores-tabela tbody,
+    #desfibriladores-tabela th,
+    #desfibriladores-tabela td,
+    #desfibriladores-tabela tr {
+        display: block; /* Transformar a tabela em um layout flexível */
+    }
+
+    #desfibriladores-tabela thead {
+        display: none; /* Esconde o cabeçalho */
+    }
+
+    #desfibriladores-tabela tr {
+        margin-bottom: 15px; /* Espaçamento entre "linhas" */
+    }
+
+    #desfibriladores-tabela td {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+        border: 1px solid #ccc;
+    }
+
+    #desfibriladores-tabela td::before {
+        content: attr(data-label); /* Usa o atributo data-label para identificar os dados */
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #0056b3;
+    }
+}
